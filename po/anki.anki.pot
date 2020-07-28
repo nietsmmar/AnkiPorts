@@ -1,0 +1,3688 @@
+#: ../anki/collection.py:505
+msgid ""
+"Empty card numbers: %(c)s\n"
+"Fields: %(f)s\n"
+"\n"
+msgstr ""
+
+#: ../anki/collection.py:591
+#, javascript-format
+msgid "Please edit this note and add some cloze deletions. (%s)"
+msgstr ""
+
+#: ../anki/collection.py:592
+msgid "help"
+msgstr ""
+
+#: ../anki/collection.py:672 ../aqt/browser.py:965 ../aqt/browser.py:1144
+msgid "Review"
+msgstr ""
+
+#: ../anki/collection.py:748
+msgid "Collection is corrupt. Please see the manual."
+msgstr ""
+
+#: ../anki/collection.py:754
+#, javascript-format
+msgid "Deleted %d note with missing note type."
+msgid_plural "Deleted %d notes with missing note type."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/collection.py:763
+msgid "Fixed AnkiDroid deck override bug."
+msgstr ""
+
+#: ../anki/collection.py:769
+#, javascript-format
+msgid "Fixed note type: %s"
+msgstr ""
+
+#: ../anki/collection.py:778
+#, javascript-format
+msgid "Deleted %d card with missing template."
+msgid_plural "Deleted %d cards with missing template."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/collection.py:790
+#, javascript-format
+msgid "Deleted %d note with wrong field count."
+msgid_plural "Deleted %d notes with wrong field count."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/collection.py:800
+#, javascript-format
+msgid "Deleted %d note with no cards."
+msgid_plural "Deleted %d notes with no cards."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/collection.py:809
+#, javascript-format
+msgid "Deleted %d card with missing note."
+msgid_plural "Deleted %d cards with missing note."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/collection.py:818 ../anki/collection.py:829
+#, javascript-format
+msgid "Fixed %d card with invalid properties."
+msgid_plural "Fixed %d cards with invalid properties."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/collection.py:856
+msgid "Database rebuilt and optimized."
+msgstr ""
+
+#: ../anki/consts.py:63
+msgid "Show new cards in random order"
+msgstr ""
+
+#: ../anki/consts.py:64
+msgid "Show new cards in order added"
+msgstr ""
+
+#: ../anki/consts.py:69
+msgid "Mix new cards and reviews"
+msgstr ""
+
+#: ../anki/consts.py:70
+msgid "Show new cards after reviews"
+msgstr ""
+
+#: ../anki/consts.py:71
+msgid "Show new cards before reviews"
+msgstr ""
+
+#: ../anki/consts.py:76
+msgid "Center"
+msgstr ""
+
+#: ../anki/consts.py:77
+msgid "Left"
+msgstr ""
+
+#: ../anki/consts.py:78
+msgid "Right"
+msgstr ""
+
+#: ../anki/consts.py:83
+msgid "Oldest seen first"
+msgstr ""
+
+#: ../anki/consts.py:84
+msgid "Random"
+msgstr ""
+
+#: ../anki/consts.py:85
+msgid "Increasing intervals"
+msgstr ""
+
+#: ../anki/consts.py:86
+msgid "Decreasing intervals"
+msgstr ""
+
+#: ../anki/consts.py:87
+msgid "Most lapses"
+msgstr ""
+
+#: ../anki/consts.py:88
+msgid "Order added"
+msgstr ""
+
+#: ../anki/consts.py:89
+msgid "Order due"
+msgstr ""
+
+#: ../anki/consts.py:90
+msgid "Latest added first"
+msgstr ""
+
+#: ../anki/consts.py:91
+msgid "Relative overdueness"
+msgstr ""
+
+#: ../anki/decks.py:51 ../anki/storage.py:299 ../aqt/deckchooser.py:47
+#: ../aqt/deckchooser.py:50 ../aqt/deckchooser.py:69
+msgid "Default"
+msgstr ""
+
+#: ../anki/decks.py:255
+msgid "That deck already exists."
+msgstr ""
+
+#: ../anki/decks.py:259
+msgid "A filtered deck cannot have subdecks."
+msgstr ""
+
+#: ../anki/decks.py:408
+msgid "[no deck]"
+msgstr ""
+
+#: ../anki/exporting.py:47
+msgid "Cards in Plain Text"
+msgstr ""
+
+#: ../anki/exporting.py:72
+msgid "Notes in Plain Text"
+msgstr ""
+
+#: ../anki/exporting.py:108
+msgid "Anki 2.0 Deck"
+msgstr ""
+
+#: ../anki/exporting.py:255
+msgid "Anki Deck Package"
+msgstr ""
+
+#: ../anki/exporting.py:336
+msgid "Anki Collection Package"
+msgstr ""
+
+#: ../anki/importing/__init__.py:14
+msgid "Text separated by tabs or semicolons (*)"
+msgstr ""
+
+#: ../anki/importing/__init__.py:15
+msgid "Packaged Anki Deck/Collection (*.apkg *.colpkg *.zip)"
+msgstr ""
+
+#: ../anki/importing/__init__.py:16
+msgid "Mnemosyne 2.0 Deck (*.db)"
+msgstr ""
+
+#: ../anki/importing/__init__.py:17
+msgid "Supermemo XML export (*.xml)"
+msgstr ""
+
+#: ../anki/importing/__init__.py:18
+msgid "Pauker 1.8 Lesson (*.pau.gz)"
+msgstr ""
+
+#: ../anki/importing/anki2.py:128
+msgid "Updated %(a)d of %(b)d existing notes."
+msgstr ""
+
+#: ../anki/importing/anki2.py:131
+msgid "Some updates were ignored because note type has changed:"
+msgstr ""
+
+#: ../anki/importing/anki2.py:338 ../anki/importing/supermemo_xml.py:181
+#, javascript-format
+msgid "%d card imported."
+msgid_plural "%d cards imported."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/importing/csvfile.py:41
+msgid "'%(row)s' had %(num1)d fields, "
+msgstr ""
+
+#: ../anki/importing/csvfile.py:52
+#, javascript-format
+msgid "Aborted: %s"
+msgstr ""
+
+#: ../anki/importing/mnemo.py:22
+msgid "File version unknown, trying import anyway."
+msgstr ""
+
+#: ../anki/importing/mnemo.py:96
+#, javascript-format
+msgid "%d note imported."
+msgid_plural "%d notes imported."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/importing/noteimp.py:117
+#, javascript-format
+msgid "First field matched: %s"
+msgstr ""
+
+#: ../anki/importing/noteimp.py:118
+#, javascript-format
+msgid "Added duplicate with first field: %s"
+msgstr ""
+
+#: ../anki/importing/noteimp.py:138
+#, javascript-format
+msgid "Empty first field: %s"
+msgstr ""
+
+#: ../anki/importing/noteimp.py:144
+#, javascript-format
+msgid "Appeared twice in file: %s"
+msgstr ""
+
+#: ../anki/importing/noteimp.py:190
+msgid "Empty cards found. Please run Tools>Empty Cards."
+msgstr ""
+
+#: ../anki/importing/noteimp.py:201
+#, javascript-format
+msgid "%d note added"
+msgid_plural "%d notes added"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/importing/noteimp.py:202
+#, javascript-format
+msgid "%d note updated"
+msgid_plural "%d notes updated"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/importing/noteimp.py:210
+#, javascript-format
+msgid "%d note unchanged"
+msgid_plural "%d notes unchanged"
+msgstr[0] ""
+msgstr[1] ""
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the anki.anki package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: ../anki/importing/noteimp.py:215 ../anki/latex.py:97 ../anki/sched.py:1173
+#: ../anki/sched.py:1178 ../anki/sched.py:1188 ../anki/sched.py:1191
+#: ../anki/schedv2.py:1249 ../anki/schedv2.py:1254 ../anki/schedv2.py:1264
+#: ../anki/schedv2.py:1267 ../anki/stats.py:741 ../aqt/addcards.py:173
+#: ../aqt/addons.py:62 ../aqt/browser.py:682 ../aqt/browser.py:686
+#: ../aqt/browser.py:1173 ../aqt/browser.py:2010 ../aqt/clayout.py:213
+#: ../aqt/clayout.py:406 ../aqt/clayout.py:478 ../aqt/dyndeckconf.py:126
+#: ../aqt/errors.py:59 ../aqt/errors.py:82 ../aqt/errors.py:99
+#: ../aqt/errors.py:109 ../aqt/importing.py:110 ../aqt/importing.py:307
+#: ../aqt/importing.py:340 ../aqt/importing.py:346 ../aqt/importing.py:363
+#: ../aqt/importing.py:378 ../aqt/main.py:205 ../aqt/main.py:213
+#: ../aqt/main.py:234 ../aqt/main.py:327 ../aqt/main.py:969 ../aqt/main.py:1010
+#: ../aqt/main.py:1244 ../aqt/overview.py:143 ../aqt/overview.py:145
+#: ../aqt/overview.py:148 ../aqt/preferences.py:179 ../aqt/profiles.py:223
+#: ../aqt/profiles.py:341 ../aqt/reviewer.py:160 ../aqt/reviewer.py:323
+#: ../aqt/sync.py:72 ../aqt/sync.py:121 ../aqt/sync.py:138 ../aqt/sync.py:155
+#: ../aqt/sync.py:159 ../aqt/sync.py:163 ../aqt/sync.py:167 ../aqt/sync.py:174
+#: ../aqt/sync.py:204 ../aqt/sync.py:247 ../aqt/sync.py:276 ../aqt/sync.py:281
+#: ../aqt/update.py:57
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: anki.anki\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 13:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ../anki/latex.py:133
+#, javascript-format
+msgid "Error executing %s."
+msgstr ""
+
+#: ../anki/latex.py:134
+#, javascript-format
+msgid "Generated file: %s"
+msgstr ""
+
+#: ../anki/latex.py:142
+msgid "Have you installed latex and dvipng/dvisvgm?"
+msgstr ""
+
+#: ../anki/media.py:298
+#, javascript-format
+msgid "Invalid file name, please rename: %s"
+msgstr ""
+
+#: ../anki/media.py:331
+msgid ""
+"Anki does not support files in subfolders of the collection.media folder."
+msgstr ""
+
+#: ../anki/models.py:220
+#, javascript-format
+msgid "%s copy"
+msgstr ""
+
+#: ../anki/sched.py:1165 ../anki/schedv2.py:1241
+msgid "Congratulations! You have finished this deck for now."
+msgstr ""
+
+#: ../anki/sched.py:1185 ../anki/schedv2.py:1261
+msgid "To see them now, click the Unbury button below."
+msgstr ""
+
+#: ../anki/sched.py:1221 ../anki/schedv2.py:1306
+msgid "(end)"
+msgstr ""
+
+#: ../anki/sound.py:301
+#, javascript-format
+msgid "Error running %s"
+msgstr ""
+
+#: ../anki/stats.py:26 ../anki/stats.py:278 ../aqt/addcards.py:190
+msgid "Added"
+msgstr ""
+
+#: ../anki/stats.py:32
+msgid "First Review"
+msgstr ""
+
+#: ../anki/stats.py:33
+msgid "Latest Review"
+msgstr ""
+
+#: ../anki/stats.py:44 ../aqt/browser.py:524 ../aqt/browser.py:966
+msgid "Due"
+msgstr ""
+
+#: ../anki/stats.py:46 ../aqt/browser.py:525 ../aqt/browser.py:1138
+msgid "Interval"
+msgstr ""
+
+#: ../anki/stats.py:47 ../aqt/browser.py:526 ../aqt/browser.py:1138
+msgid "Ease"
+msgstr ""
+
+#: ../anki/stats.py:48 ../anki/stats.py:693 ../aqt/browser.py:527
+#: ../aqt/forms/dconf.py:368
+msgid "Reviews"
+msgstr ""
+
+#: ../anki/stats.py:49 ../aqt/browser.py:528 ../aqt/forms/dconf.py:379
+msgid "Lapses"
+msgstr ""
+
+#: ../anki/stats.py:54
+msgid "Average Time"
+msgstr ""
+
+#: ../anki/stats.py:55
+msgid "Total Time"
+msgstr ""
+
+#: ../anki/stats.py:57
+msgid "Position"
+msgstr ""
+
+#: ../anki/stats.py:58
+msgid "Card Type"
+msgstr ""
+
+#: ../anki/stats.py:59
+msgid "Note Type"
+msgstr ""
+
+#: ../anki/stats.py:60 ../aqt/browser.py:519 ../aqt/deckchooser.py:25
+#: ../aqt/forms/importing.py:94
+msgid "Deck"
+msgstr ""
+
+#: ../anki/stats.py:61
+msgid "Note ID"
+msgstr ""
+
+#: ../anki/stats.py:62
+msgid "Card ID"
+msgstr ""
+
+#: ../anki/stats.py:168 ../aqt/deckbrowser.py:109
+#, javascript-format
+msgid "<!--studied-->%d card"
+msgid_plural "<!--studied-->%d cards"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/stats.py:170
+msgid "Studied %(a)s %(b)s today (%(secs).1fs/card)"
+msgstr ""
+
+#: ../anki/stats.py:175
+#, javascript-format
+msgid "Again count: %s"
+msgstr ""
+
+#: ../anki/stats.py:177
+#, javascript-format
+msgid "(%s correct)"
+msgstr ""
+
+#: ../anki/stats.py:181
+msgid "Learn: %(a)s, Review: %(b)s, Relearn: %(c)s, Filtered: %(d)s"
+msgstr ""
+
+#: ../anki/stats.py:189
+msgid "Correct answers on mature cards: %(a)d/%(b)d (%(c).1f%%)"
+msgstr ""
+
+#: ../anki/stats.py:192
+msgid "No mature cards were studied today."
+msgstr ""
+
+#: ../anki/stats.py:194
+msgid "No cards have been studied today."
+msgstr ""
+
+#: ../anki/stats.py:218 ../anki/stats.py:336 ../anki/stats.py:350
+#: ../anki/stats.py:590 ../anki/stats.py:723
+msgid "Mature"
+msgstr ""
+
+#: ../anki/stats.py:219 ../anki/stats.py:337 ../anki/stats.py:351
+#: ../anki/stats.py:589
+msgid "Young"
+msgstr ""
+
+#: ../anki/stats.py:223
+msgid "Cumulative"
+msgstr ""
+
+#: ../anki/stats.py:226
+msgid "Forecast"
+msgstr ""
+
+#: ../anki/stats.py:227
+msgid "The number of reviews due in the future."
+msgstr ""
+
+#: ../anki/stats.py:232 ../anki/stats.py:296
+msgid "Cumulative Cards"
+msgstr ""
+
+#: ../anki/stats.py:240
+#, javascript-format
+msgid "%d review"
+msgid_plural "%d reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/stats.py:240 ../anki/stats.py:304 ../anki/stats.py:385
+msgid "Total"
+msgstr ""
+
+#: ../anki/stats.py:241 ../anki/stats.py:305
+msgid "Average"
+msgstr ""
+
+#: ../anki/stats.py:242 ../anki/stats.py:346
+msgid "reviews"
+msgstr ""
+
+#: ../anki/stats.py:246 ../anki/stats.py:304 ../aqt/clayout.py:207
+#: ../aqt/main.py:1108
+#, javascript-format
+msgid "%d card"
+msgid_plural "%d cards"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/stats.py:247
+msgid "Due tomorrow"
+msgstr ""
+
+#: ../anki/stats.py:295
+msgid "The number of new cards you have added."
+msgstr ""
+
+#: ../anki/stats.py:296 ../anki/stats.py:803 ../aqt/forms/changemodel.py:109
+msgid "Cards"
+msgstr ""
+
+#: ../anki/stats.py:305 ../aqt/customstudy.py:47
+msgid "cards"
+msgstr ""
+
+#: ../anki/stats.py:319
+msgid "Review Count"
+msgstr ""
+
+#: ../anki/stats.py:320
+msgid "Review Time"
+msgstr ""
+
+#: ../anki/stats.py:338 ../anki/stats.py:352 ../aqt/browser.py:1144
+msgid "Relearn"
+msgstr ""
+
+#: ../anki/stats.py:339 ../anki/stats.py:353 ../aqt/browser.py:1144
+msgid "Learn"
+msgstr ""
+
+#: ../anki/stats.py:340 ../anki/stats.py:354
+msgid "Cram"
+msgstr ""
+
+#: ../anki/stats.py:342
+msgid "The number of questions you have answered."
+msgstr ""
+
+#: ../anki/stats.py:343 ../anki/stats.py:593 ../anki/stats.py:687
+msgid "Answers"
+msgstr ""
+
+#: ../anki/stats.py:344
+msgid "Cumulative Answers"
+msgstr ""
+
+#: ../anki/stats.py:356
+msgid "Minutes"
+msgstr ""
+
+#: ../anki/stats.py:359
+msgid "Hours"
+msgstr ""
+
+#: ../anki/stats.py:361
+msgid "The time taken to answer the questions."
+msgstr ""
+
+#: ../anki/stats.py:362
+#, javascript-format
+msgid "Cumulative %s"
+msgstr ""
+
+#: ../anki/stats.py:364 ../aqt/forms/dyndconf.py:143
+msgid "minutes"
+msgstr ""
+
+#: ../anki/stats.py:377
+msgid "Days studied"
+msgstr ""
+
+#: ../anki/stats.py:378
+msgid "<b>%(pct)d%%</b> (%(x)s of %(y)s)"
+msgstr ""
+
+#: ../anki/stats.py:382
+msgid "hours"
+msgstr ""
+
+#: ../anki/stats.py:385
+msgid "%(tot)s %(unit)s"
+msgstr ""
+
+#: ../anki/stats.py:390
+msgid "Average for days studied"
+msgstr ""
+
+#: ../anki/stats.py:394
+msgid "If you studied every day"
+msgstr ""
+
+#: ../anki/stats.py:401
+msgid "less than 0.1 cards/minute"
+msgstr ""
+
+#: ../anki/stats.py:403
+#, javascript-format
+msgid "%.01f cards/minute"
+msgstr ""
+
+#: ../anki/stats.py:405
+msgid "Average answer time"
+msgstr ""
+
+#: ../anki/stats.py:406
+msgid "%(a)0.1fs (%(b)s)"
+msgstr ""
+
+#: ../anki/stats.py:535
+msgid "Intervals"
+msgstr ""
+
+#: ../anki/stats.py:536
+msgid "Delays until reviews are shown again."
+msgstr ""
+
+#: ../anki/stats.py:537
+msgid "Percentage"
+msgstr ""
+
+#: ../anki/stats.py:545
+msgid "Average interval"
+msgstr ""
+
+#: ../anki/stats.py:546
+msgid "Longest interval"
+msgstr ""
+
+#: ../anki/stats.py:585
+msgid "Answer Buttons"
+msgstr ""
+
+#: ../anki/stats.py:586
+msgid "The number of times you have pressed each button."
+msgstr ""
+
+#: ../anki/stats.py:588 ../aqt/browser.py:964 ../aqt/overview.py:185
+msgid "Learning"
+msgstr ""
+
+#: ../anki/stats.py:613
+msgid "Correct: <b>%(pct)0.2f%%</b><br>(%(good)d of %(tot)d)"
+msgstr ""
+
+#: ../anki/stats.py:683
+msgid "Hourly Breakdown"
+msgstr ""
+
+#: ../anki/stats.py:684
+msgid "Review success rate for each hour of the day."
+msgstr ""
+
+#: ../anki/stats.py:686 ../anki/stats.py:693
+msgid "% Correct"
+msgstr ""
+
+#: ../anki/stats.py:690
+msgid "10AM"
+msgstr ""
+
+#: ../anki/stats.py:690
+msgid "4AM"
+msgstr ""
+
+#: ../anki/stats.py:691
+msgid "10PM"
+msgstr ""
+
+#: ../anki/stats.py:691
+msgid "3AM"
+msgstr ""
+
+#: ../anki/stats.py:691
+msgid "4PM"
+msgstr ""
+
+#: ../anki/stats.py:694
+msgid "Hours with less than 30 reviews are not shown."
+msgstr ""
+
+#: ../anki/stats.py:724
+msgid "Young+Learn"
+msgstr ""
+
+#: ../anki/stats.py:725
+msgid "Unseen"
+msgstr ""
+
+#: ../anki/stats.py:726
+msgid "Suspended+Buried"
+msgstr ""
+
+#: ../anki/stats.py:733
+msgid "Total cards"
+msgstr ""
+
+#: ../anki/stats.py:734
+msgid "Total notes"
+msgstr ""
+
+#: ../anki/stats.py:737
+msgid "Lowest ease"
+msgstr ""
+
+#: ../anki/stats.py:738
+msgid "Average ease"
+msgstr ""
+
+#: ../anki/stats.py:739
+msgid "Highest ease"
+msgstr ""
+
+#: ../anki/stats.py:753
+msgid ":"
+msgstr ""
+
+#: ../anki/stats.py:784
+#, javascript-format
+msgid "Generated on %s"
+msgstr ""
+
+#: ../anki/stats.py:787
+msgid "whole collection"
+msgstr ""
+
+#: ../anki/stats.py:790
+#, javascript-format
+msgid "Scope: %s"
+msgstr ""
+
+#: ../anki/stats.py:792
+#, javascript-format
+msgid "Period: %s"
+msgstr ""
+
+#: ../anki/stats.py:793 ../aqt/forms/stats.py:75
+msgid "1 month"
+msgstr ""
+
+#: ../anki/stats.py:794 ../aqt/forms/stats.py:76
+msgid "1 year"
+msgstr ""
+
+#: ../anki/stats.py:795 ../aqt/forms/stats.py:77
+msgid "deck life"
+msgstr ""
+
+#: ../anki/stats.py:816
+msgid "d"
+msgstr ""
+
+#: ../anki/stats.py:816
+msgid "mo"
+msgstr ""
+
+#: ../anki/stats.py:816
+msgid "w"
+msgstr ""
+
+#: ../anki/stats.py:936
+msgid "%(a)0.1f %(b)s/day"
+msgstr ""
+
+#: ../anki/stdmodels.py:15 ../anki/stdmodels.py:27
+#: ../aqt/forms/preferences.py:237
+msgid "Basic"
+msgstr ""
+
+#: ../anki/stdmodels.py:16 ../anki/stdmodels.py:21 ../anki/stdmodels.py:35
+#: ../anki/stdmodels.py:40 ../anki/stdmodels.py:57 ../anki/stdmodels.py:75
+#: ../aqt/forms/addfield.py:71
+msgid "Front"
+msgstr ""
+
+#: ../anki/stdmodels.py:18 ../anki/stdmodels.py:22 ../anki/stdmodels.py:37
+#: ../anki/stdmodels.py:40 ../anki/stdmodels.py:41 ../anki/stdmodels.py:56
+#: ../anki/stdmodels.py:74 ../aqt/forms/addfield.py:75
+msgid "Back"
+msgstr ""
+
+#: ../anki/stdmodels.py:20 ../anki/stdmodels.py:39
+msgid "Card 1"
+msgstr ""
+
+#: ../anki/stdmodels.py:34 ../anki/stdmodels.py:46
+msgid "Basic (type in the answer)"
+msgstr ""
+
+#: ../anki/stdmodels.py:54 ../anki/stdmodels.py:61
+msgid "Basic (and reversed card)"
+msgstr ""
+
+#: ../anki/stdmodels.py:55 ../anki/stdmodels.py:73
+msgid "Card 2"
+msgstr ""
+
+#: ../anki/stdmodels.py:69 ../anki/stdmodels.py:79
+msgid "Basic (optional reversed card)"
+msgstr ""
+
+#: ../anki/stdmodels.py:70
+msgid "Add Reverse"
+msgstr ""
+
+#: ../anki/stdmodels.py:87 ../anki/stdmodels.py:94 ../anki/stdmodels.py:110
+#: ../anki/storage.py:193
+msgid "Cloze"
+msgstr ""
+
+#: ../anki/stdmodels.py:89
+msgid "Text"
+msgstr ""
+
+#: ../anki/stdmodels.py:92 ../anki/stdmodels.py:105
+msgid "Extra"
+msgstr ""
+
+#: ../anki/sync.py:758
+#, javascript-format
+msgid "%d media change to upload"
+msgid_plural "%d media changes to upload"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/sync.py:805
+#, javascript-format
+msgid "%d media file downloaded"
+msgid_plural "%d media files downloaded"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/utils.py:32
+#, javascript-format
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/utils.py:33
+#, javascript-format
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/utils.py:34
+#, javascript-format
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/utils.py:35
+#, javascript-format
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/utils.py:36
+#, javascript-format
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/utils.py:37
+#, javascript-format
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/utils.py:41
+#, javascript-format
+msgid "in %s year"
+msgid_plural "in %s years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/utils.py:42
+#, javascript-format
+msgid "in %s month"
+msgid_plural "in %s months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/utils.py:43
+#, javascript-format
+msgid "in %s day"
+msgid_plural "in %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/utils.py:44
+#, javascript-format
+msgid "in %s hour"
+msgid_plural "in %s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/utils.py:45
+#, javascript-format
+msgid "in %s minute"
+msgid_plural "in %s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/utils.py:46
+#, javascript-format
+msgid "in %s second"
+msgid_plural "in %s seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../anki/utils.py:51
+#, javascript-format
+msgid "%sy"
+msgstr ""
+
+#: ../anki/utils.py:52
+#, javascript-format
+msgid "%smo"
+msgstr ""
+
+#: ../anki/utils.py:53
+#, javascript-format
+msgid "%sd"
+msgstr ""
+
+#: ../anki/utils.py:54
+#, javascript-format
+msgid "%sh"
+msgstr ""
+
+#: ../anki/utils.py:55
+#, javascript-format
+msgid "%sm"
+msgstr ""
+
+#: ../anki/utils.py:56
+#, javascript-format
+msgid "%ss"
+msgstr ""
+
+#: ../aqt/about.py:28
+msgid ""
+"Anki is a friendly, intelligent spaced learning system. It's free and open "
+"source."
+msgstr ""
+
+#: ../aqt/about.py:30
+msgid "Anki is licensed under the AGPL3 license. Please see "
+msgstr ""
+
+#: ../aqt/about.py:32
+#, javascript-format
+msgid "Version %s"
+msgstr ""
+
+#: ../aqt/about.py:34
+#, javascript-format
+msgid "<a href='%s'>Visit website</a>"
+msgstr ""
+
+#: ../aqt/about.py:121
+msgid ""
+"Written by Damien Elmes, with patches, translation,    testing and design "
+"from:<p>%(cont)s"
+msgstr ""
+
+#: ../aqt/about.py:123
+msgid "If you have contributed and are not on this list, please get in touch."
+msgstr ""
+
+#: ../aqt/about.py:125
+msgid ""
+"A big thanks to all the people who have provided suggestions, bug reports "
+"and donations."
+msgstr ""
+
+#: ../aqt/addcards.py:23 ../aqt/addcards.py:54 ../aqt/deckconf.py:70
+#: ../aqt/forms/addcards.py:57 ../aqt/forms/fields.py:98
+#: ../aqt/forms/profiles.py:70 ../aqt/models.py:35 ../aqt/studydeck.py:30
+#: ../aqt/toolbar.py:34
+msgid "Add"
+msgstr ""
+
+#: ../aqt/addcards.py:57
+msgid "Add (shortcut: ctrl+enter)"
+msgstr ""
+
+#: ../aqt/addcards.py:59 ../aqt/clayout.py:238 ../aqt/forms/browser.py:302
+msgid "Close"
+msgstr ""
+
+#: ../aqt/addcards.py:63 ../aqt/clayout.py:223 ../aqt/utils.py:136
+#: ../aqt/utils.py:137
+msgid "Help"
+msgstr ""
+
+#: ../aqt/addcards.py:69
+msgid "History"
+msgstr ""
+
+#: ../aqt/addcards.py:75
+#, javascript-format
+msgid "Shortcut: %s"
+msgstr ""
+
+#: ../aqt/addcards.py:144
+#, javascript-format
+msgid "Edit \"%s\""
+msgstr ""
+
+#: ../aqt/addcards.py:147
+msgid "(Note deleted)"
+msgstr ""
+
+#: ../aqt/addcards.py:162
+msgid "The first field is empty."
+msgstr ""
+
+#: ../aqt/addcards.py:168
+msgid "You have a cloze deletion note type "
+msgstr ""
+
+#: ../aqt/addcards.py:223
+msgid "Close and lose current input?"
+msgstr ""
+
+#: ../aqt/addons.py:107
+msgid "The download was corrupt. Please try again."
+msgstr ""
+
+#: ../aqt/addons.py:152
+msgid "Error downloading %(id)s: %(error)s"
+msgstr ""
+
+#: ../aqt/addons.py:158
+msgid "Downloaded %(fname)s"
+msgstr ""
+
+#: ../aqt/addons.py:320
+msgid " (disabled)"
+msgstr ""
+
+#: ../aqt/addons.py:346
+msgid "Add-on was not downloaded from AnkiWeb."
+msgstr ""
+
+#: ../aqt/addons.py:366
+msgid "Delete the %(num)d selected add-on?"
+msgid_plural "Delete the %(num)d selected add-ons?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/addons.py:381
+msgid "No updates available."
+msgstr ""
+
+#: ../aqt/addons.py:384
+msgid "Update the following add-ons?"
+msgstr ""
+
+#: ../aqt/addons.py:407
+msgid "Add-on has no configuration."
+msgstr ""
+
+#: ../aqt/addons.py:426
+msgid "Browse Add-ons"
+msgstr ""
+
+#: ../aqt/addons.py:440
+msgid "Invalid code."
+msgstr ""
+
+#: ../aqt/addons.py:491
+msgid "Invalid configuration: "
+msgstr ""
+
+#: ../aqt/browser.py:143
+msgid "Invalid search - please check for typing mistakes."
+msgstr ""
+
+#: ../aqt/browser.py:270 ../aqt/browser.py:276
+msgid "(new)"
+msgstr ""
+
+#: ../aqt/browser.py:272
+msgid "(learning)"
+msgstr ""
+
+#: ../aqt/browser.py:304
+msgid "(filtered)"
+msgstr ""
+
+#: ../aqt/browser.py:400
+#, javascript-format
+msgid "Preview Selected Card (%s)"
+msgstr ""
+
+#: ../aqt/browser.py:401 ../aqt/forms/browser.py:259 ../aqt/forms/main.py:139
+msgid "Ctrl+Shift+P"
+msgstr ""
+
+#: ../aqt/browser.py:516
+msgid "Question"
+msgstr ""
+
+#: ../aqt/browser.py:517
+msgid "Answer"
+msgstr ""
+
+#: ../aqt/browser.py:518
+msgid "Card"
+msgstr ""
+
+#: ../aqt/browser.py:520
+msgid "Sort Field"
+msgstr ""
+
+#: ../aqt/browser.py:521
+msgid "Created"
+msgstr ""
+
+#: ../aqt/browser.py:522
+msgid "Edited"
+msgstr ""
+
+#: ../aqt/browser.py:523
+msgid "Changed"
+msgstr ""
+
+#: ../aqt/browser.py:529 ../aqt/browser.py:981
+msgid "Tags"
+msgstr ""
+
+#: ../aqt/browser.py:530
+msgid "Note"
+msgstr ""
+
+#: ../aqt/browser.py:541
+msgid "<type here to search; hit enter to show current deck>"
+msgstr ""
+
+#: ../aqt/browser.py:593
+msgid "Browse (%(cur)d card shown; %(sel)s)"
+msgid_plural "Browse (%(cur)d cards shown; %(sel)s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/browser.py:597
+#, javascript-format
+msgid "%d selected"
+msgid_plural "%d selected"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/browser.py:690
+msgid "Sorting on this column is not supported. Please "
+msgstr ""
+
+#: ../aqt/browser.py:740
+msgid "You must have at least one column."
+msgstr ""
+
+#: ../aqt/browser.py:800 ../aqt/forms/browser.py:328
+msgid "Sidebar"
+msgstr ""
+
+#: ../aqt/browser.py:842 ../aqt/browser.py:949
+msgid "Whole Collection"
+msgstr ""
+
+#: ../aqt/browser.py:843 ../aqt/browser.py:950
+msgid "Current Deck"
+msgstr ""
+
+#: ../aqt/browser.py:953
+msgid "Today"
+msgstr ""
+
+#: ../aqt/browser.py:955
+msgid "Added Today"
+msgstr ""
+
+#: ../aqt/browser.py:956
+msgid "Studied Today"
+msgstr ""
+
+#: ../aqt/browser.py:957
+msgid "Again Today"
+msgstr ""
+
+#: ../aqt/browser.py:961
+msgid "Card State"
+msgstr ""
+
+#: ../aqt/browser.py:963 ../aqt/overview.py:184
+msgid "New"
+msgstr ""
+
+#: ../aqt/browser.py:968
+msgid "Suspended"
+msgstr ""
+
+#: ../aqt/browser.py:969
+msgid "Buried"
+msgstr ""
+
+#: ../aqt/browser.py:971 ../aqt/forms/browser.py:320 ../aqt/reviewer.py:574
+msgid "Red Flag"
+msgstr ""
+
+#: ../aqt/browser.py:972 ../aqt/forms/browser.py:322 ../aqt/reviewer.py:575
+msgid "Purple Flag"
+msgstr ""
+
+#: ../aqt/browser.py:973 ../aqt/forms/browser.py:324 ../aqt/reviewer.py:576
+msgid "Green Flag"
+msgstr ""
+
+#: ../aqt/browser.py:974 ../aqt/forms/browser.py:326 ../aqt/reviewer.py:577
+msgid "Blue Flag"
+msgstr ""
+
+#: ../aqt/browser.py:975
+msgid "No Flag"
+msgstr ""
+
+#: ../aqt/browser.py:976
+msgid "Any Flag"
+msgstr ""
+
+#: ../aqt/browser.py:983
+msgid "Clear Unused"
+msgstr ""
+
+#: ../aqt/browser.py:1000 ../aqt/forms/dyndconf.py:131
+msgid "Filter"
+msgstr ""
+
+#: ../aqt/browser.py:1011 ../aqt/toolbar.py:33
+msgid "Decks"
+msgstr ""
+
+#: ../aqt/browser.py:1017 ../aqt/forms/models.py:51 ../aqt/models.py:20
+msgid "Note Types"
+msgstr ""
+
+#: ../aqt/browser.py:1019 ../aqt/forms/dconf.py:347
+msgid "Manage..."
+msgstr ""
+
+#: ../aqt/browser.py:1030
+msgid "All Card Types"
+msgstr ""
+
+#: ../aqt/browser.py:1035
+msgid "%(n)d: %(name)s"
+msgstr ""
+
+#: ../aqt/browser.py:1054
+msgid "Remove Current Filter..."
+msgstr ""
+
+#: ../aqt/browser.py:1056
+msgid "Save Current Filter..."
+msgstr ""
+
+#: ../aqt/browser.py:1069
+msgid "Please give your filter a name:"
+msgstr ""
+
+#: ../aqt/browser.py:1079
+#, javascript-format
+msgid "Remove %s from your saved searches?"
+msgstr ""
+
+#: ../aqt/browser.py:1136
+msgid "Date"
+msgstr ""
+
+#: ../aqt/browser.py:1138
+msgid "Rating"
+msgstr ""
+
+#: ../aqt/browser.py:1138
+msgid "Time"
+msgstr ""
+
+#: ../aqt/browser.py:1138 ../aqt/forms/importing.py:93
+#: ../aqt/modelchooser.py:26
+msgid "Type"
+msgstr ""
+
+#: ../aqt/browser.py:1142
+msgid "<b>%Y-%m-%d</b> @ %H:%M"
+msgstr ""
+
+#: ../aqt/browser.py:1144
+msgid "Filtered"
+msgstr ""
+
+#: ../aqt/browser.py:1145
+msgid "Resched"
+msgstr ""
+
+#: ../aqt/browser.py:1161
+msgid "0d"
+msgstr ""
+
+#: ../aqt/browser.py:1205
+msgid "Please select cards from only one note type."
+msgstr ""
+
+#: ../aqt/browser.py:1238 ../aqt/forms/browser.py:258
+msgid "Preview"
+msgstr ""
+
+#: ../aqt/browser.py:1248 ../aqt/reviewer.py:589
+msgid "Replay Audio"
+msgstr ""
+
+#: ../aqt/browser.py:1251 ../aqt/browser.py:1269 ../aqt/deckbrowser.py:288
+#: ../aqt/main.py:568 ../aqt/overview.py:217 ../aqt/reviewer.py:473
+#: ../aqt/reviewer.py:484 ../aqt/toolbar.py:33 ../aqt/toolbar.py:34
+#: ../aqt/toolbar.py:35 ../aqt/toolbar.py:36 ../aqt/toolbar.py:37
+#, javascript-format
+msgid "Shortcut key: %s"
+msgstr ""
+
+#: ../aqt/browser.py:1256
+msgid "Shortcut key: Left arrow"
+msgstr ""
+
+#: ../aqt/browser.py:1261
+msgid "Shortcut key: Right arrow or Enter"
+msgstr ""
+
+#: ../aqt/browser.py:1267
+msgid "Show Both Sides"
+msgstr ""
+
+#: ../aqt/browser.py:1357
+msgid "(please select 1 card)"
+msgstr ""
+
+#: ../aqt/browser.py:1415
+msgid "Delete Notes"
+msgstr ""
+
+#: ../aqt/browser.py:1439
+#, javascript-format
+msgid "%d note deleted."
+msgid_plural "%d notes deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/browser.py:1456
+msgid "Move Cards"
+msgstr ""
+
+#: ../aqt/browser.py:1457 ../aqt/browser.py:1466
+msgid "Change Deck"
+msgstr ""
+
+#: ../aqt/browser.py:1463
+msgid "Cards can't be manually moved into a filtered deck."
+msgstr ""
+
+#: ../aqt/browser.py:1488
+msgid "Enter tags to add:"
+msgstr ""
+
+#: ../aqt/browser.py:1498
+msgid "Add Tags"
+msgstr ""
+
+#: ../aqt/browser.py:1508
+msgid "Delete Tags"
+msgstr ""
+
+#: ../aqt/browser.py:1509
+msgid "Enter tags to delete:"
+msgstr ""
+
+#: ../aqt/browser.py:1566
+msgid "Only new cards can be repositioned."
+msgstr ""
+
+#: ../aqt/browser.py:1575
+#, javascript-format
+msgid "Queue top: %d"
+msgstr ""
+
+#: ../aqt/browser.py:1576
+#, javascript-format
+msgid "Queue bottom: %d"
+msgstr ""
+
+#: ../aqt/browser.py:1581 ../aqt/forms/fields.py:101
+msgid "Reposition"
+msgstr ""
+
+#: ../aqt/browser.py:1603 ../aqt/forms/reschedule.py:70
+msgid "Reschedule"
+msgstr ""
+
+#: ../aqt/browser.py:1679
+msgid "All Fields"
+msgstr ""
+
+#: ../aqt/browser.py:1690 ../aqt/forms/findreplace.py:65
+msgid "Find and Replace"
+msgstr ""
+
+#: ../aqt/browser.py:1701
+msgid "Invalid regular expression."
+msgstr ""
+
+#: ../aqt/browser.py:1710
+msgid "%(a)d of %(b)d note updated"
+msgid_plural "%(a)d of %(b)d notes updated"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/browser.py:1743 ../aqt/forms/browser.py:257
+#: ../aqt/forms/dyndconf.py:133 ../aqt/forms/dyndconf.py:137
+msgid "Search"
+msgstr ""
+
+#: ../aqt/browser.py:1752 ../aqt/browser.py:1775
+msgid "Tag Duplicates"
+msgstr ""
+
+#: ../aqt/browser.py:1757
+#, javascript-format
+msgid "%d group"
+msgid_plural "%d groups"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/browser.py:1758 ../aqt/browser.py:1764 ../aqt/fields.py:95
+#: ../aqt/models.py:70
+#, javascript-format
+msgid "%d note"
+msgid_plural "%d notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/browser.py:1759
+msgid "Found %(a)s across %(b)s."
+msgstr ""
+
+#: ../aqt/browser.py:1779
+msgid "duplicate"
+msgstr ""
+
+#: ../aqt/browser.py:1783
+msgid "Notes tagged."
+msgstr ""
+
+#: ../aqt/browser.py:1930
+msgid "Nothing"
+msgstr ""
+
+#: ../aqt/browser.py:1933
+#, javascript-format
+msgid "Change %s to:"
+msgstr ""
+
+#: ../aqt/browser.py:2016 ../aqt/forms/changemodel.py:106
+msgid "Change Note Type"
+msgstr ""
+
+#: ../aqt/clayout.py:33
+msgid "Card Types"
+msgstr ""
+
+#: ../aqt/clayout.py:48
+#, javascript-format
+msgid "Card Types for %s"
+msgstr ""
+
+#: ../aqt/clayout.py:87 ../aqt/deckbrowser.py:208 ../aqt/deckconf.py:23
+#: ../aqt/dyndeckconf.py:23 ../aqt/forms/dyndconf.py:139
+#: ../aqt/forms/fields.py:105 ../aqt/overview.py:204 ../aqt/reviewer.py:587
+msgid "Options"
+msgstr ""
+
+#: ../aqt/clayout.py:94
+msgid "Changes below will affect the %(cnt)d note that uses this card type."
+msgid_plural ""
+"Changes below will affect the %(cnt)d notes that use this card type."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/clayout.py:160
+msgid "Styling (shared between cards)"
+msgstr ""
+
+#: ../aqt/clayout.py:200
+#, javascript-format
+msgid " (1 of %d)"
+msgstr ""
+
+#: ../aqt/clayout.py:204
+msgid "At least one card type is required."
+msgstr ""
+
+#: ../aqt/clayout.py:208
+msgid "Delete the '%(a)s' card type, and its %(b)s?"
+msgstr ""
+
+#: ../aqt/clayout.py:228 ../aqt/forms/addfield.py:70
+msgid "Add Field"
+msgstr ""
+
+#: ../aqt/clayout.py:233
+msgid "Flip"
+msgstr ""
+
+#: ../aqt/clayout.py:343 ../aqt/deckconf.py:126 ../aqt/fields.py:71
+#: ../aqt/main.py:188 ../aqt/models.py:55
+msgid "New name:"
+msgstr ""
+
+#: ../aqt/clayout.py:349
+msgid "That name is already used."
+msgstr ""
+
+#: ../aqt/clayout.py:357
+#, javascript-format
+msgid "Enter new card position (1...%s):"
+msgstr ""
+
+#: ../aqt/clayout.py:377
+#, javascript-format
+msgid "Card %d"
+msgstr ""
+
+#: ../aqt/clayout.py:385
+#, javascript-format
+msgid "This will create %d card. Proceed?"
+msgid_plural "This will create %d cards. Proceed?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/clayout.py:418
+msgid "Add Card Type..."
+msgstr ""
+
+#: ../aqt/clayout.py:421
+msgid "Remove Card Type..."
+msgstr ""
+
+#: ../aqt/clayout.py:424
+msgid "Rename Card Type..."
+msgstr ""
+
+#: ../aqt/clayout.py:427
+msgid "Reposition Card Type..."
+msgstr ""
+
+#: ../aqt/clayout.py:434
+msgid " (on)"
+msgstr ""
+
+#: ../aqt/clayout.py:436
+msgid " (off)"
+msgstr ""
+
+#: ../aqt/clayout.py:437
+msgid "Deck Override..."
+msgstr ""
+
+#: ../aqt/clayout.py:440
+msgid "Browser Appearance..."
+msgstr ""
+
+#: ../aqt/customstudy.py:51
+msgid "OK"
+msgstr ""
+
+#: ../aqt/customstudy.py:61
+#, javascript-format
+msgid "New cards in deck over today limit: %s"
+msgstr ""
+
+#: ../aqt/customstudy.py:62
+msgid "Increase today's new card limit by"
+msgstr ""
+
+#: ../aqt/customstudy.py:70
+#, javascript-format
+msgid "Reviews due in deck over today limit: %s"
+msgstr ""
+
+#: ../aqt/customstudy.py:71
+msgid "Increase today's review limit by"
+msgstr ""
+
+#: ../aqt/customstudy.py:75
+msgid "Review cards forgotten in last"
+msgstr ""
+
+#: ../aqt/customstudy.py:76 ../aqt/customstudy.py:80 ../aqt/customstudy.py:83
+#: ../aqt/forms/dconf.py:356 ../aqt/forms/dconf.py:357
+#: ../aqt/forms/dconf.py:365 ../aqt/forms/dconf.py:375
+#: ../aqt/forms/reschedule.py:74
+msgid "days"
+msgstr ""
+
+#: ../aqt/customstudy.py:79
+msgid "Review ahead by"
+msgstr ""
+
+#: ../aqt/customstudy.py:82
+msgid "Preview new cards added in the last"
+msgstr ""
+
+#: ../aqt/customstudy.py:86
+msgid "Select"
+msgstr ""
+
+#: ../aqt/customstudy.py:87
+msgid "cards from the deck"
+msgstr ""
+
+#: ../aqt/customstudy.py:88
+msgid "After pressing OK, you can choose which tags to include."
+msgstr ""
+
+#: ../aqt/customstudy.py:89
+msgid "Choose Tags"
+msgstr ""
+
+#: ../aqt/customstudy.py:121 ../aqt/customstudy.py:133
+msgid "Custom Study Session"
+msgstr ""
+
+#: ../aqt/customstudy.py:168
+msgid "No cards matched the criteria you provided."
+msgstr ""
+
+#: ../aqt/deckbrowser.py:54
+msgid "Name for deck:"
+msgstr ""
+
+#: ../aqt/deckbrowser.py:110
+msgid "Studied %(a)s %(b)s today."
+msgstr ""
+
+#: ../aqt/deckbrowser.py:119
+msgid "You have a lot of decks. Please see %(a)s. %(b)s"
+msgstr ""
+
+#: ../aqt/deckbrowser.py:121
+msgid "this page"
+msgstr ""
+
+#: ../aqt/deckbrowser.py:123
+msgid "hide"
+msgstr ""
+
+#: ../aqt/deckbrowser.py:206 ../aqt/deckconf.py:74 ../aqt/forms/fields.py:100
+#: ../aqt/forms/profiles.py:71 ../aqt/models.py:37
+msgid "Rename"
+msgstr ""
+
+#: ../aqt/deckbrowser.py:210 ../aqt/exporting.py:94
+#: ../aqt/forms/exporting.py:68
+msgid "Export"
+msgstr ""
+
+#: ../aqt/deckbrowser.py:212 ../aqt/deckconf.py:72 ../aqt/forms/addons.py:69
+#: ../aqt/forms/browser.py:312 ../aqt/forms/fields.py:99
+#: ../aqt/forms/profiles.py:72 ../aqt/models.py:39 ../aqt/reviewer.py:655
+msgid "Delete"
+msgstr ""
+
+#: ../aqt/deckbrowser.py:221
+msgid "Rename Deck"
+msgstr ""
+
+#: ../aqt/deckbrowser.py:224 ../aqt/studydeck.py:127
+msgid "New deck name:"
+msgstr ""
+
+#: ../aqt/deckbrowser.py:254
+msgid "The default deck can't be deleted."
+msgstr ""
+
+#: ../aqt/deckbrowser.py:255
+msgid "Delete Deck"
+msgstr ""
+
+#: ../aqt/deckbrowser.py:263
+#, javascript-format
+msgid " It has %d card."
+msgid_plural " It has %d cards."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/deckbrowser.py:267
+#, javascript-format
+msgid "Are you sure you wish to delete %s?"
+msgstr ""
+
+#: ../aqt/deckbrowser.py:278
+msgid "Get Shared"
+msgstr ""
+
+#: ../aqt/deckbrowser.py:279
+msgid "Create Deck"
+msgstr ""
+
+#: ../aqt/deckbrowser.py:280
+msgid "Import File"
+msgstr ""
+
+#: ../aqt/deckchooser.py:29
+msgid "Target Deck (Ctrl+D)"
+msgstr ""
+
+#: ../aqt/deckchooser.py:30 ../aqt/forms/browser.py:317
+msgid "Ctrl+D"
+msgstr ""
+
+#: ../aqt/deckchooser.py:75 ../aqt/modelchooser.py:68
+msgid "Choose"
+msgstr ""
+
+#: ../aqt/deckchooser.py:76
+msgid "Choose Deck"
+msgstr ""
+
+#: ../aqt/deckconf.py:30 ../aqt/dyndeckconf.py:26 ../aqt/models.py:113
+#, javascript-format
+msgid "Options for %s"
+msgstr ""
+
+#: ../aqt/deckconf.py:76
+msgid "Set for all subdecks"
+msgstr ""
+
+#: ../aqt/deckconf.py:97
+msgid "Your changes will affect multiple decks. If you wish to "
+msgstr ""
+
+#: ../aqt/deckconf.py:104
+msgid "New options group name:"
+msgstr ""
+
+#: ../aqt/deckconf.py:118
+msgid "The default configuration can't be removed."
+msgstr ""
+
+#: ../aqt/deckconf.py:134
+#, javascript-format
+msgid "Set all decks below %s to this option group?"
+msgstr ""
+
+#: ../aqt/deckconf.py:143
+#, javascript-format
+msgid "%d deck updated."
+msgid_plural "%d decks updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/deckconf.py:164
+#, javascript-format
+msgid "(parent limit: %d)"
+msgstr ""
+
+#: ../aqt/deckconf.py:243 ../aqt/dyndeckconf.py:153
+msgid "Steps must be numbers."
+msgstr ""
+
+#: ../aqt/deckconf.py:246 ../aqt/dyndeckconf.py:156
+msgid "At least one step is required."
+msgstr ""
+
+#: ../aqt/downloader.py:60
+msgid "Invalid code, or add-on not available for your version of Anki."
+msgstr ""
+
+#: ../aqt/downloader.py:63
+#, javascript-format
+msgid "Error downloading: %s"
+msgstr ""
+
+#: ../aqt/dyndeckconf.py:18
+msgid "Build"
+msgstr ""
+
+#: ../aqt/dyndeckconf.py:20 ../aqt/overview.py:207
+msgid "Rebuild"
+msgstr ""
+
+#: ../aqt/editcurrent.py:19
+msgid "Edit Current"
+msgstr ""
+
+#: ../aqt/editor.py:95
+msgid "Record audio (F5)"
+msgstr ""
+
+#: ../aqt/editor.py:112
+msgid "Show Duplicates"
+msgstr ""
+
+#: ../aqt/editor.py:537
+msgid "Media"
+msgstr ""
+
+#: ../aqt/editor.py:543
+msgid "Add Media"
+msgstr ""
+
+#: ../aqt/editor.py:573
+msgid "Couldn't record audio. Have you installed 'lame'?"
+msgstr ""
+
+#: ../aqt/editor.py:657
+#, javascript-format
+msgid "Unexpected response code: %s"
+msgstr ""
+
+#: ../aqt/editor.py:662 ../aqt/editor.py:665
+#, javascript-format
+msgid "An error occurred while opening %s"
+msgstr ""
+
+#: ../aqt/editor.py:740
+msgid "MathJax inline"
+msgstr ""
+
+#: ../aqt/editor.py:743
+msgid "MathJax block"
+msgstr ""
+
+#: ../aqt/editor.py:746
+msgid "MathJax chemistry"
+msgstr ""
+
+#: ../aqt/editor.py:749 ../aqt/forms/modelopts.py:64
+msgid "LaTeX"
+msgstr ""
+
+#: ../aqt/editor.py:752
+msgid "LaTeX equation"
+msgstr ""
+
+#: ../aqt/editor.py:755
+msgid "LaTeX math env."
+msgstr ""
+
+#: ../aqt/editor.py:758
+msgid "Edit HTML"
+msgstr ""
+
+#: ../aqt/editor.py:955
+msgid "Cut"
+msgstr ""
+
+#: ../aqt/editor.py:957 ../aqt/webview.py:158
+msgid "Copy"
+msgstr ""
+
+#: ../aqt/editor.py:959
+msgid "Paste"
+msgstr ""
+
+#: ../aqt/errors.py:69
+msgid ""
+"Your firewall or antivirus program is preventing Anki from creating a "
+"connection to itself. Please add an exception for Anki."
+msgstr ""
+
+#: ../aqt/errors.py:71
+msgid "Please install PyAudio"
+msgstr ""
+
+#: ../aqt/errors.py:73
+msgid ""
+"Sound and video on cards will not function until mpv or mplayer is installed."
+msgstr ""
+
+#: ../aqt/errors.py:75
+msgid "Please connect a microphone, and ensure "
+msgstr ""
+
+#: ../aqt/exporting.py:42
+msgid "All Decks"
+msgstr ""
+
+#: ../aqt/exporting.py:45
+msgid "Export..."
+msgstr ""
+
+#: ../aqt/exporting.py:82 ../aqt/forms/stats.py:74
+msgid "collection"
+msgstr ""
+
+#: ../aqt/exporting.py:109
+#, javascript-format
+msgid "Couldn't save file: %s"
+msgstr ""
+
+#: ../aqt/exporting.py:113
+#, javascript-format
+msgid "Exported %d media file"
+msgid_plural "Exported %d media files"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/exporting.py:121
+msgid "Collection exported."
+msgstr ""
+
+#: ../aqt/exporting.py:124
+#, javascript-format
+msgid "%d note exported."
+msgid_plural "%d notes exported."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/exporting.py:127
+#, javascript-format
+msgid "%d card exported."
+msgid_plural "%d cards exported."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/fields.py:19 ../aqt/forms/changemodel.py:110
+#: ../aqt/forms/fields.py:97
+msgid "Fields"
+msgstr ""
+
+#: ../aqt/fields.py:22
+#, javascript-format
+msgid "Fields for %s"
+msgstr ""
+
+#: ../aqt/fields.py:64
+msgid "That field name is already used."
+msgstr ""
+
+#: ../aqt/fields.py:80
+msgid "Field name:"
+msgstr ""
+
+#: ../aqt/fields.py:93
+msgid "Notes require at least one field."
+msgstr ""
+
+#: ../aqt/fields.py:96
+#, javascript-format
+msgid "Delete field from %s?"
+msgstr ""
+
+#: ../aqt/fields.py:108
+#, javascript-format
+msgid "New position (1...%d):"
+msgstr ""
+
+#: ../aqt/forms/about.py:40
+msgid "About Anki"
+msgstr ""
+
+#: ../aqt/forms/addfield.py:72
+msgid "Field:"
+msgstr ""
+
+#: ../aqt/forms/addfield.py:73
+msgid "Font:"
+msgstr ""
+
+#: ../aqt/forms/addfield.py:74
+msgid "Size:"
+msgstr ""
+
+#: ../aqt/forms/addfield.py:76
+msgid "Add to:"
+msgstr ""
+
+#: ../aqt/forms/addmodel.py:41
+msgid "Add Note Type"
+msgstr ""
+
+#: ../aqt/forms/addonconf.py:64
+msgid "Configuration"
+msgstr ""
+
+#: ../aqt/forms/addons.py:61 ../aqt/forms/main.py:151
+msgid "Add-ons"
+msgstr ""
+
+#: ../aqt/forms/addons.py:62
+msgid "Changes will take effect when Anki is restarted."
+msgstr ""
+
+#: ../aqt/forms/addons.py:63
+msgid "Get Add-ons..."
+msgstr ""
+
+#: ../aqt/forms/addons.py:64
+msgid "Check for Updates"
+msgstr ""
+
+#: ../aqt/forms/addons.py:65
+msgid "View Add-on Page"
+msgstr ""
+
+#: ../aqt/forms/addons.py:66
+msgid "Config"
+msgstr ""
+
+#: ../aqt/forms/addons.py:67
+msgid "View Files"
+msgstr ""
+
+#: ../aqt/forms/addons.py:68
+msgid "Toggle Enabled"
+msgstr ""
+
+#: ../aqt/forms/browser.py:260
+msgid "Filter..."
+msgstr ""
+
+#: ../aqt/forms/browser.py:261 ../aqt/forms/main.py:119
+msgid "&Edit"
+msgstr ""
+
+#: ../aqt/forms/browser.py:262
+msgid "&Go"
+msgstr ""
+
+#: ../aqt/forms/browser.py:263 ../aqt/forms/main.py:118
+msgid "&Help"
+msgstr ""
+
+#: ../aqt/forms/browser.py:264
+msgid "&Cards"
+msgstr ""
+
+#: ../aqt/forms/browser.py:265
+msgid "Flag"
+msgstr ""
+
+#: ../aqt/forms/browser.py:266
+msgid "&Notes"
+msgstr ""
+
+#: ../aqt/forms/browser.py:267
+msgid "&Reschedule..."
+msgstr ""
+
+#: ../aqt/forms/browser.py:268
+msgid "Ctrl+Alt+R"
+msgstr ""
+
+#: ../aqt/forms/browser.py:269
+msgid "Select &All"
+msgstr ""
+
+#: ../aqt/forms/browser.py:270
+msgid "Ctrl+Alt+A"
+msgstr ""
+
+#: ../aqt/forms/browser.py:271 ../aqt/forms/main.py:128
+msgid "&Undo"
+msgstr ""
+
+#: ../aqt/forms/browser.py:272
+msgid "Ctrl+Z"
+msgstr ""
+
+#: ../aqt/forms/browser.py:273
+msgid "&Invert Selection"
+msgstr ""
+
+#: ../aqt/forms/browser.py:274
+msgid "Ctrl+Alt+S"
+msgstr ""
+
+#: ../aqt/forms/browser.py:275
+msgid "&Find"
+msgstr ""
+
+#: ../aqt/forms/browser.py:276
+msgid "Ctrl+F"
+msgstr ""
+
+#: ../aqt/forms/browser.py:277
+msgid "N&ote"
+msgstr ""
+
+#: ../aqt/forms/browser.py:278 ../aqt/forms/main.py:150
+msgid "Ctrl+Shift+N"
+msgstr ""
+
+#: ../aqt/forms/browser.py:279
+msgid "&Next Card"
+msgstr ""
+
+#: ../aqt/forms/browser.py:280 ../aqt/modelchooser.py:32
+msgid "Ctrl+N"
+msgstr ""
+
+#: ../aqt/forms/browser.py:281
+msgid "&Previous Card"
+msgstr ""
+
+#: ../aqt/forms/browser.py:282 ../aqt/forms/main.py:126
+msgid "Ctrl+P"
+msgstr ""
+
+#: ../aqt/forms/browser.py:283
+msgid "&Guide"
+msgstr ""
+
+#: ../aqt/forms/browser.py:284 ../aqt/forms/main.py:137
+msgid "F1"
+msgstr ""
+
+#: ../aqt/forms/browser.py:285
+msgid "Change Note Type..."
+msgstr ""
+
+#: ../aqt/forms/browser.py:286
+msgid "Ctrl+Shift+M"
+msgstr ""
+
+#: ../aqt/forms/browser.py:287
+msgid "Select &Notes"
+msgstr ""
+
+#: ../aqt/forms/browser.py:288
+msgid "Find and Re&place..."
+msgstr ""
+
+#: ../aqt/forms/browser.py:289
+msgid "Ctrl+Alt+F"
+msgstr ""
+
+#: ../aqt/forms/browser.py:290
+msgid "&Cram..."
+msgstr ""
+
+#: ../aqt/forms/browser.py:291
+msgid "Fil&ter"
+msgstr ""
+
+#: ../aqt/forms/browser.py:292
+msgid "Ctrl+Shift+F"
+msgstr ""
+
+#: ../aqt/forms/browser.py:293
+msgid "Card List"
+msgstr ""
+
+#: ../aqt/forms/browser.py:294
+msgid "Ctrl+Shift+L"
+msgstr ""
+
+#: ../aqt/forms/browser.py:295
+msgid "Find &Duplicates..."
+msgstr ""
+
+#: ../aqt/forms/browser.py:296
+msgid "Reposition..."
+msgstr ""
+
+#: ../aqt/forms/browser.py:297
+msgid "Ctrl+Shift+S"
+msgstr ""
+
+#: ../aqt/forms/browser.py:298
+msgid "First Card"
+msgstr ""
+
+#: ../aqt/forms/browser.py:299
+msgid "Home"
+msgstr ""
+
+#: ../aqt/forms/browser.py:300
+msgid "Last Card"
+msgstr ""
+
+#: ../aqt/forms/browser.py:301
+msgid "End"
+msgstr ""
+
+#: ../aqt/forms/browser.py:303
+msgid "Ctrl+W"
+msgstr ""
+
+#: ../aqt/forms/browser.py:304
+msgid "&Info..."
+msgstr ""
+
+#: ../aqt/forms/browser.py:305 ../aqt/forms/main.py:143
+msgid "Ctrl+Shift+I"
+msgstr ""
+
+#: ../aqt/forms/browser.py:306
+msgid "Add Tags..."
+msgstr ""
+
+#: ../aqt/forms/browser.py:307 ../aqt/forms/main.py:152
+msgid "Ctrl+Shift+A"
+msgstr ""
+
+#: ../aqt/forms/browser.py:308
+msgid "Remove Tags..."
+msgstr ""
+
+#: ../aqt/forms/browser.py:309
+msgid "Ctrl+Shift+D"
+msgstr ""
+
+#: ../aqt/forms/browser.py:310
+msgid "Toggle Suspend"
+msgstr ""
+
+#: ../aqt/forms/browser.py:311
+msgid "Ctrl+J"
+msgstr ""
+
+#: ../aqt/forms/browser.py:313
+msgid "Ctrl+Del"
+msgstr ""
+
+#: ../aqt/forms/browser.py:314
+msgid "Add Notes..."
+msgstr ""
+
+#: ../aqt/forms/browser.py:315 ../aqt/forms/main.py:141
+msgid "Ctrl+E"
+msgstr ""
+
+#: ../aqt/forms/browser.py:316
+msgid "Change Deck..."
+msgstr ""
+
+#: ../aqt/forms/browser.py:318 ../aqt/reviewer.py:579
+msgid "Clear Flag"
+msgstr ""
+
+#: ../aqt/forms/browser.py:319
+msgid "Ctrl+0"
+msgstr ""
+
+#: ../aqt/forms/browser.py:321
+msgid "Ctrl+1"
+msgstr ""
+
+#: ../aqt/forms/browser.py:323
+msgid "Ctrl+2"
+msgstr ""
+
+#: ../aqt/forms/browser.py:325
+msgid "Ctrl+3"
+msgstr ""
+
+#: ../aqt/forms/browser.py:327
+msgid "Ctrl+4"
+msgstr ""
+
+#: ../aqt/forms/browser.py:329
+msgid "Ctrl+Shift+R"
+msgstr ""
+
+#: ../aqt/forms/browser.py:330
+msgid "Clear Unused Tags"
+msgstr ""
+
+#: ../aqt/forms/browser.py:331
+msgid "Manage Note Types..."
+msgstr ""
+
+#: ../aqt/forms/browser.py:332
+msgid "Toggle Mark"
+msgstr ""
+
+#: ../aqt/forms/browser.py:333
+msgid "Ctrl+K"
+msgstr ""
+
+#: ../aqt/forms/browserdisp.py:66
+msgid "Browser Appearance"
+msgstr ""
+
+#: ../aqt/forms/browserdisp.py:67
+msgid "Override front template:"
+msgstr ""
+
+#: ../aqt/forms/browserdisp.py:68
+msgid "Override back template:"
+msgstr ""
+
+#: ../aqt/forms/browserdisp.py:69
+msgid "Override font:"
+msgstr ""
+
+#: ../aqt/forms/browseropts.py:66
+msgid "Browser Options"
+msgstr ""
+
+#: ../aqt/forms/browseropts.py:67
+msgid "<b>Font</b>:"
+msgstr ""
+
+#: ../aqt/forms/browseropts.py:68
+msgid "<b>Font Size</b>:"
+msgstr ""
+
+#: ../aqt/forms/browseropts.py:69
+msgid "<b>Line Size</b>:"
+msgstr ""
+
+#: ../aqt/forms/browseropts.py:70
+msgid "Search within formatting (slow)"
+msgstr ""
+
+#: ../aqt/forms/changemap.py:38 ../aqt/forms/importing.py:91
+#: ../aqt/importing.py:86 ../aqt/importing.py:166 ../aqt/importing.py:272
+msgid "Import"
+msgstr ""
+
+#: ../aqt/forms/changemap.py:39
+msgid "Target field:"
+msgstr ""
+
+#: ../aqt/forms/changemodel.py:107
+msgid "Current note type:"
+msgstr ""
+
+#: ../aqt/forms/changemodel.py:108
+msgid "New note type:"
+msgstr ""
+
+#: ../aqt/forms/clayout_top.py:53 ../aqt/forms/preview.py:36
+#: ../aqt/forms/template.py:103
+msgid "Form"
+msgstr ""
+
+#: ../aqt/forms/clayout_top.py:54
+msgid "Card Type:"
+msgstr ""
+
+#: ../aqt/forms/customstudy.py:94 ../aqt/overview.py:210
+msgid "Custom Study"
+msgstr ""
+
+#: ../aqt/forms/customstudy.py:95
+msgid "Review ahead"
+msgstr ""
+
+#: ../aqt/forms/customstudy.py:96
+msgid "Review forgotten cards"
+msgstr ""
+
+#: ../aqt/forms/customstudy.py:97
+msgid "Increase today's new card limit"
+msgstr ""
+
+#: ../aqt/forms/customstudy.py:98
+msgid "Increase today's review card limit"
+msgstr ""
+
+#: ../aqt/forms/customstudy.py:99
+msgid "Study by card state or tag"
+msgstr ""
+
+#: ../aqt/forms/customstudy.py:100
+msgid "Preview new cards"
+msgstr ""
+
+#: ../aqt/forms/customstudy.py:101 ../aqt/forms/customstudy.py:102
+#: ../aqt/forms/customstudy.py:103
+msgid "..."
+msgstr ""
+
+#: ../aqt/forms/customstudy.py:107
+msgid "New cards only"
+msgstr ""
+
+#: ../aqt/forms/customstudy.py:109
+msgid "Due cards only"
+msgstr ""
+
+#: ../aqt/forms/customstudy.py:111
+msgid "All review cards in random order"
+msgstr ""
+
+#: ../aqt/forms/customstudy.py:113
+msgid "All cards in random order (don't reschedule)"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:346
+msgid "Options group:"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:348 ../aqt/forms/dconf.py:360
+#: ../aqt/forms/dconf.py:361 ../aqt/forms/dconf.py:378
+msgid "%"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:349
+msgid "Starting ease"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:350
+msgid "Order"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:351
+msgid "Easy interval"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:352
+msgid "Graduating interval"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:353
+msgid "New cards/day"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:354 ../aqt/forms/dconf.py:369
+msgid "Steps (in minutes)"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:355
+msgid "Bury related new cards until the next day"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:358
+msgid "New Cards"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:359
+msgid "Easy bonus"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:362
+msgid "Interval modifier"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:363
+msgid "Maximum reviews/day"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:364
+msgid "Maximum interval"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:366
+msgid "Bury related reviews until the next day"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:367
+msgid "Hard interval"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:370
+msgid "New interval"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:371
+msgid "Leech threshold"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:372
+msgid "lapses"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:373
+msgid "Leech action"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:374
+msgid "Minimum interval"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:376 ../aqt/reviewer.py:584
+msgid "Suspend Card"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:377
+msgid "Tag Only"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:380
+msgid "Ignore answer times longer than"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:381
+msgid "seconds"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:382
+msgid "Show answer timer"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:383
+msgid "Automatically play audio"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:384
+msgid "Always include question side when replaying audio"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:385
+msgid "General"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:386
+msgid "Description to show on study screen (current deck only):"
+msgstr ""
+
+#: ../aqt/forms/dconf.py:387
+msgid "Description"
+msgstr ""
+
+#: ../aqt/forms/debug.py:46
+msgid "Debug Console"
+msgstr ""
+
+#: ../aqt/forms/dyndconf.py:130 ../aqt/forms/editaddon.py:37
+#: ../aqt/forms/editcurrent.py:35 ../aqt/forms/progress.py:37
+msgid "Dialog"
+msgstr ""
+
+#: ../aqt/forms/dyndconf.py:132 ../aqt/forms/dyndconf.py:136
+msgid "Limit to"
+msgstr ""
+
+#: ../aqt/forms/dyndconf.py:134 ../aqt/forms/dyndconf.py:138
+msgid "cards selected by"
+msgstr ""
+
+#: ../aqt/forms/dyndconf.py:135
+msgid "Filter 2"
+msgstr ""
+
+#: ../aqt/forms/dyndconf.py:140
+msgid "Reschedule cards based on my answers in this deck"
+msgstr ""
+
+#: ../aqt/forms/dyndconf.py:141
+msgid "Enable second filter"
+msgstr ""
+
+#: ../aqt/forms/dyndconf.py:142
+msgid "Repeat failed cards after"
+msgstr ""
+
+#: ../aqt/forms/dyndconf.py:144
+msgid "1 10"
+msgstr ""
+
+#: ../aqt/forms/dyndconf.py:145
+msgid "Custom steps (in minutes)"
+msgstr ""
+
+#: ../aqt/forms/edithtml.py:34
+msgid "HTML Editor"
+msgstr ""
+
+#: ../aqt/forms/exporting.py:69
+msgid "<b>Export format</b>:"
+msgstr ""
+
+#: ../aqt/forms/exporting.py:70
+msgid "<b>Include</b>:"
+msgstr ""
+
+#: ../aqt/forms/exporting.py:71
+msgid "Include scheduling information"
+msgstr ""
+
+#: ../aqt/forms/exporting.py:72
+msgid "Include media"
+msgstr ""
+
+#: ../aqt/forms/exporting.py:73
+msgid "Include tags"
+msgstr ""
+
+#: ../aqt/forms/fields.py:102
+msgid "Editing Font"
+msgstr ""
+
+#: ../aqt/forms/fields.py:103
+msgid "Reverse text direction (RTL)"
+msgstr ""
+
+#: ../aqt/forms/fields.py:104
+msgid "Remember last input when adding"
+msgstr ""
+
+#: ../aqt/forms/fields.py:106
+msgid "Sort by this field in the browser"
+msgstr ""
+
+#: ../aqt/forms/finddupes.py:59
+msgid "Find Duplicates"
+msgstr ""
+
+#: ../aqt/forms/finddupes.py:60
+msgid "Optional filter:"
+msgstr ""
+
+#: ../aqt/forms/finddupes.py:61
+msgid "Search in:"
+msgstr ""
+
+#: ../aqt/forms/findreplace.py:66
+msgid "<b>Find</b>:"
+msgstr ""
+
+#: ../aqt/forms/findreplace.py:67
+msgid "<b>Replace With</b>:"
+msgstr ""
+
+#: ../aqt/forms/findreplace.py:68
+msgid "<b>In</b>:"
+msgstr ""
+
+#: ../aqt/forms/findreplace.py:69
+msgid "Treat input as regular expression"
+msgstr ""
+
+#: ../aqt/forms/findreplace.py:70
+msgid "Ignore case"
+msgstr ""
+
+#: ../aqt/forms/getaddons.py:45
+msgid "Install Add-on"
+msgstr ""
+
+#: ../aqt/forms/getaddons.py:46
+msgid ""
+"To browse add-ons, please click the browse button below.<br><br>When you've "
+"found an add-on you like, please paste its code below. You can paste "
+"multiple codes, separated by spaces."
+msgstr ""
+
+#: ../aqt/forms/getaddons.py:47
+msgid "Code:"
+msgstr ""
+
+#: ../aqt/forms/importing.py:92
+msgid "Import options"
+msgstr ""
+
+#: ../aqt/forms/importing.py:95
+msgid "Update existing notes when first field matches"
+msgstr ""
+
+#: ../aqt/forms/importing.py:96
+msgid "Ignore lines where first field matches existing note"
+msgstr ""
+
+#: ../aqt/forms/importing.py:97
+msgid "Import even if existing note has same first field"
+msgstr ""
+
+#: ../aqt/forms/importing.py:98
+msgid "Allow HTML in fields"
+msgstr ""
+
+#: ../aqt/forms/importing.py:99
+msgid "Field mapping"
+msgstr ""
+
+#: ../aqt/forms/main.py:117 ../aqt/forms/setgroup.py:35
+#: ../aqt/forms/setlang.py:36
+msgid "Anki"
+msgstr ""
+
+#: ../aqt/forms/main.py:120
+msgid "&File"
+msgstr ""
+
+#: ../aqt/forms/main.py:121
+msgid "&Tools"
+msgstr ""
+
+#: ../aqt/forms/main.py:122
+msgid "E&xit"
+msgstr ""
+
+#: ../aqt/forms/main.py:123
+msgid "Ctrl+Q"
+msgstr ""
+
+#: ../aqt/forms/main.py:124
+msgid "&Preferences..."
+msgstr ""
+
+#: ../aqt/forms/main.py:125
+msgid "Configure interface language and options"
+msgstr ""
+
+#: ../aqt/forms/main.py:127
+msgid "&About..."
+msgstr ""
+
+#: ../aqt/forms/main.py:129
+msgid "Ctrl+Alt+Z"
+msgstr ""
+
+#: ../aqt/forms/main.py:130
+msgid "Check &Media..."
+msgstr ""
+
+#: ../aqt/forms/main.py:131
+msgid "Check the files in the media directory"
+msgstr ""
+
+#: ../aqt/forms/main.py:132
+msgid "&Open Add-ons Folder..."
+msgstr ""
+
+#: ../aqt/forms/main.py:133
+msgid "&Support Anki..."
+msgstr ""
+
+#: ../aqt/forms/main.py:134
+msgid "&Browse and Install..."
+msgstr ""
+
+#: ../aqt/forms/main.py:135
+msgid "&Check Database"
+msgstr ""
+
+#: ../aqt/forms/main.py:136
+msgid "&Guide..."
+msgstr ""
+
+#: ../aqt/forms/main.py:138
+msgid "&Switch Profile"
+msgstr ""
+
+#: ../aqt/forms/main.py:140
+msgid "&Export..."
+msgstr ""
+
+#: ../aqt/forms/main.py:142
+msgid "&Import..."
+msgstr ""
+
+#: ../aqt/forms/main.py:144
+msgid "Study Deck..."
+msgstr ""
+
+#: ../aqt/forms/main.py:145
+msgid "/"
+msgstr ""
+
+#: ../aqt/forms/main.py:146
+msgid "Empty Cards..."
+msgstr ""
+
+#: ../aqt/forms/main.py:147
+msgid "Create Filtered Deck..."
+msgstr ""
+
+#: ../aqt/forms/main.py:148
+msgid "F"
+msgstr ""
+
+#: ../aqt/forms/main.py:149
+msgid "Manage Note Types"
+msgstr ""
+
+#: ../aqt/forms/modelopts.py:61
+msgid "Create scalable images with dvisvgm"
+msgstr ""
+
+#: ../aqt/forms/modelopts.py:62
+msgid "Header"
+msgstr ""
+
+#: ../aqt/forms/modelopts.py:63
+msgid "Footer"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:221
+msgid "Preferences"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:222 ../aqt/forms/setlang.py:37
+msgid "Interface language:"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:223
+msgid "Show next review time above answer buttons"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:224
+msgid "Show remaining card count during review"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:225
+msgid "Paste clipboard images as PNG"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:226
+msgid "Show cards as white on black (night mode)"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:227
+msgid "Show learning cards with larger steps before reviews"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:228
+msgid "Experimental V2 scheduler"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:229
+msgid "When adding, default to current deck"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:230
+msgid "Change deck depending on note type"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:231
+msgid "Next day starts at"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:232
+msgid "Learn ahead limit"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:233 ../aqt/forms/preferences.py:235
+msgid "mins"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:234
+msgid "Timebox time limit"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:236
+msgid "hours past midnight"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:238
+msgid "<b>Synchronisation</b>"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:239
+msgid "Synchronize audio and images too"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:240
+msgid "Automatically sync on profile open/close"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:241
+msgid "On next sync, force changes in one direction"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:242
+msgid "Deauthorize"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:243
+msgid "Network"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:244
+msgid ""
+"<b>Backups</b><br>Anki will create a backup of your collection each time it "
+"is closed or synchronized."
+msgstr ""
+
+#: ../aqt/forms/preferences.py:245
+msgid "Keep"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:246
+msgid "backups"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:247
+msgid "<a href=\"backups\">Open backup folder</a>"
+msgstr ""
+
+#: ../aqt/forms/preferences.py:248
+msgid ""
+"Note: Media is not backed up. Please create a periodic backup of your Anki "
+"folder to be safe."
+msgstr ""
+
+#: ../aqt/forms/preferences.py:249
+msgid "Some settings will take effect after you restart Anki."
+msgstr ""
+
+#: ../aqt/forms/preferences.py:250
+msgid "Backups"
+msgstr ""
+
+#: ../aqt/forms/preview.py:37
+msgid "Front Preview"
+msgstr ""
+
+#: ../aqt/forms/preview.py:38
+msgid "Back Preview"
+msgstr ""
+
+#: ../aqt/forms/profiles.py:68
+msgid "Profiles"
+msgstr ""
+
+#: ../aqt/forms/profiles.py:69
+msgid "Open"
+msgstr ""
+
+#: ../aqt/forms/profiles.py:73
+msgid "Quit"
+msgstr ""
+
+#: ../aqt/forms/profiles.py:74
+msgid "Open Backup..."
+msgstr ""
+
+#: ../aqt/forms/reposition.py:67
+msgid "Reposition New Cards"
+msgstr ""
+
+#: ../aqt/forms/reposition.py:68
+msgid "Start position:"
+msgstr ""
+
+#: ../aqt/forms/reposition.py:69
+msgid "Step:"
+msgstr ""
+
+#: ../aqt/forms/reposition.py:70
+msgid "Randomize order"
+msgstr ""
+
+#: ../aqt/forms/reposition.py:71
+msgid "Shift position of existing cards"
+msgstr ""
+
+#: ../aqt/forms/reschedule.py:71
+msgid "Place at end of new card queue"
+msgstr ""
+
+#: ../aqt/forms/reschedule.py:72
+msgid "Place in review queue with interval between:"
+msgstr ""
+
+#: ../aqt/forms/reschedule.py:73
+msgid "~"
+msgstr ""
+
+#: ../aqt/forms/setgroup.py:36
+msgid "Move cards to deck:"
+msgstr ""
+
+#: ../aqt/forms/stats.py:72
+msgid "Statistics"
+msgstr ""
+
+#: ../aqt/forms/stats.py:73
+msgid "deck"
+msgstr ""
+
+#: ../aqt/forms/studydeck.py:42
+msgid "Study Deck"
+msgstr ""
+
+#: ../aqt/forms/studydeck.py:43
+msgid "Filter:"
+msgstr ""
+
+#: ../aqt/forms/taglimit.py:57
+msgid "Selective Study"
+msgstr ""
+
+#: ../aqt/forms/taglimit.py:58
+msgid "Require one or more of these tags:"
+msgstr ""
+
+#: ../aqt/forms/taglimit.py:59
+msgid "Select tags to exclude:"
+msgstr ""
+
+#: ../aqt/forms/template.py:104
+msgid "Front Template"
+msgstr ""
+
+#: ../aqt/forms/template.py:105
+msgid "Styling"
+msgstr ""
+
+#: ../aqt/forms/template.py:106
+msgid "Back Template"
+msgstr ""
+
+#: ../aqt/importing.py:34
+#, javascript-format
+msgid "Map to %s"
+msgstr ""
+
+#: ../aqt/importing.py:40
+msgid "Map to Tags"
+msgstr ""
+
+#: ../aqt/importing.py:41
+msgid "Ignore field"
+msgstr ""
+
+#: ../aqt/importing.py:118
+msgid "Multi-character separators are not supported. "
+msgstr ""
+
+#: ../aqt/importing.py:136
+msgid "Tab"
+msgstr ""
+
+#: ../aqt/importing.py:138
+msgid "Comma"
+msgstr ""
+
+#: ../aqt/importing.py:140 ../aqt/reviewer.py:484
+msgid "Space"
+msgstr ""
+
+#: ../aqt/importing.py:142
+msgid "Semicolon"
+msgstr ""
+
+#: ../aqt/importing.py:144
+msgid "Colon"
+msgstr ""
+
+#: ../aqt/importing.py:147
+#, javascript-format
+msgid "Fields separated by: %s"
+msgstr ""
+
+#: ../aqt/importing.py:154
+msgid "The first field of the note type must be mapped."
+msgstr ""
+
+#: ../aqt/importing.py:173 ../aqt/importing.py:349
+msgid "Import failed.\n"
+msgstr ""
+
+#: ../aqt/importing.py:185
+msgid "Importing complete."
+msgstr ""
+
+#: ../aqt/importing.py:223
+#, javascript-format
+msgid "Field <b>%d</b> of file is:"
+msgstr ""
+
+#: ../aqt/importing.py:226
+msgid "mapped to <b>Tags</b>"
+msgstr ""
+
+#: ../aqt/importing.py:228
+#, javascript-format
+msgid "mapped to <b>%s</b>"
+msgstr ""
+
+#: ../aqt/importing.py:230
+msgid "<ignored>"
+msgstr ""
+
+#: ../aqt/importing.py:232
+msgid "Change"
+msgstr ""
+
+#: ../aqt/importing.py:266
+msgid "Selected file was not in UTF-8 format. Please see the "
+msgstr ""
+
+#: ../aqt/importing.py:311
+msgid "Unknown file format."
+msgstr ""
+
+#: ../aqt/importing.py:313
+msgid "Import failed. Debugging info:\n"
+msgstr ""
+
+#: ../aqt/importing.py:409
+msgid "The provided file is not a valid .apkg file."
+msgstr ""
+
+#: ../aqt/importing.py:418
+#, javascript-format
+msgid "Processed %d media file"
+msgid_plural "Processed %d media files"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/main.py:53
+#, javascript-format
+msgid ""
+"Error during startup:\n"
+"%s"
+msgstr ""
+
+#: ../aqt/main.py:57
+msgid "Shift key was held down. Skipping automatic "
+msgstr ""
+
+#: ../aqt/main.py:176 ../aqt/models.py:84
+msgid "Name:"
+msgstr ""
+
+#: ../aqt/main.py:180 ../aqt/main.py:194
+msgid "Name exists."
+msgstr ""
+
+#: ../aqt/main.py:203
+msgid "There must be at least one profile."
+msgstr ""
+
+#: ../aqt/main.py:220
+msgid "Revert to backup"
+msgstr ""
+
+#: ../aqt/main.py:228
+msgid ""
+"Unable to move existing file to trash - please try restarting your computer."
+msgstr ""
+
+#: ../aqt/main.py:369
+msgid "Closing..."
+msgstr ""
+
+#: ../aqt/main.py:371
+msgid "Backing Up..."
+msgstr ""
+
+#: ../aqt/main.py:387
+msgid ""
+"Your collection file appears to be corrupt. This can happen when the file is "
+"copied or moved while Anki is open, or when the collection is stored on a "
+"network or cloud drive. If problems persist after restarting your computer, "
+"please open an automatic backup from the profile screen."
+msgstr ""
+
+#: ../aqt/main.py:450
+msgid "Optimizing..."
+msgstr ""
+
+#: ../aqt/main.py:487
+msgid "Please select a deck."
+msgstr ""
+
+#: ../aqt/main.py:550
+msgid "Waiting for editing to finish."
+msgstr ""
+
+#: ../aqt/main.py:551
+msgid "Resume Now"
+msgstr ""
+
+#: ../aqt/main.py:1043
+msgid "In media folder but not used by any cards:"
+msgstr ""
+
+#: ../aqt/main.py:1049
+msgid "Used on cards but missing from media folder:"
+msgstr ""
+
+#: ../aqt/main.py:1052
+msgid "No unused or missing files found."
+msgstr ""
+
+#: ../aqt/main.py:1066
+msgid "Delete Unused Files"
+msgstr ""
+
+#: ../aqt/main.py:1081
+msgid "Delete unused media?"
+msgstr ""
+
+#: ../aqt/main.py:1088
+msgid "Deleted."
+msgstr ""
+
+#: ../aqt/main.py:1104
+msgid "No empty cards."
+msgstr ""
+
+#: ../aqt/main.py:1109
+#, javascript-format
+msgid "%s to delete:"
+msgstr ""
+
+#: ../aqt/main.py:1112
+msgid "Delete Cards"
+msgstr ""
+
+#: ../aqt/main.py:1117
+msgid "Delete Empty"
+msgstr ""
+
+#: ../aqt/main.py:1119
+#, javascript-format
+msgid "%d card deleted."
+msgid_plural "%d cards deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/main.py:1187
+msgid "<non-unicode text>"
+msgstr ""
+
+#: ../aqt/main.py:1240
+msgid "Deck will be imported when a profile is opened."
+msgstr ""
+
+#: ../aqt/modelchooser.py:31
+msgid "Change Note Type (Ctrl+N)"
+msgstr ""
+
+#: ../aqt/modelchooser.py:63
+msgid "Manage"
+msgstr ""
+
+#: ../aqt/modelchooser.py:68
+msgid "Choose Note Type"
+msgstr ""
+
+#: ../aqt/models.py:42
+msgid "Fields..."
+msgstr ""
+
+#: ../aqt/models.py:44
+msgid "Cards..."
+msgstr ""
+
+#: ../aqt/models.py:46
+msgid "Options..."
+msgstr ""
+
+#: ../aqt/models.py:93
+msgid "Please add another note type first."
+msgstr ""
+
+#: ../aqt/models.py:97
+msgid "Delete this note type and all its cards?"
+msgstr ""
+
+#: ../aqt/models.py:99
+msgid "Delete this unused note type?"
+msgstr ""
+
+#: ../aqt/models.py:132
+msgid "This is a {{c1::sample}} cloze deletion."
+msgstr ""
+
+#: ../aqt/models.py:174
+#, javascript-format
+msgid "Add: %s"
+msgstr ""
+
+#: ../aqt/models.py:179
+#, javascript-format
+msgid "Clone: %s"
+msgstr ""
+
+#: ../aqt/overview.py:39
+msgid "No cards are due yet."
+msgstr ""
+
+#: ../aqt/overview.py:101
+msgid "Manually Buried Cards"
+msgstr ""
+
+#: ../aqt/overview.py:102
+msgid "Buried Siblings"
+msgstr ""
+
+#: ../aqt/overview.py:103
+msgid "All Buried Cards"
+msgstr ""
+
+#: ../aqt/overview.py:104 ../aqt/sound.py:20 ../aqt/sync.py:244
+#: ../aqt/sync.py:264
+msgid "Cancel"
+msgstr ""
+
+#: ../aqt/overview.py:106
+msgid "What would you like to unbury?"
+msgstr ""
+
+#: ../aqt/overview.py:186
+msgid "To Review"
+msgstr ""
+
+#: ../aqt/overview.py:187
+msgid "Study Now"
+msgstr ""
+
+#: ../aqt/overview.py:208
+msgid "Empty"
+msgstr ""
+
+#: ../aqt/overview.py:211
+msgid "Filter/Cram"
+msgstr ""
+
+#: ../aqt/overview.py:213
+msgid "Unbury"
+msgstr ""
+
+#: ../aqt/preferences.py:16
+msgid "Please open a profile first."
+msgstr ""
+
+#: ../aqt/preferences.py:69
+msgid "Please restart Anki to complete language change."
+msgstr ""
+
+#: ../aqt/preferences.py:120
+msgid ""
+"This will reset any cards in learning, clear filtered decks, and change the "
+"scheduler version. Proceed?"
+msgstr ""
+
+#: ../aqt/preferences.py:125
+msgid ""
+"The experimental scheduler could cause incorrect scheduling. Please ensure "
+"you have read the documentation first. Proceed?"
+msgstr ""
+
+#: ../aqt/profiles.py:205
+#, javascript-format
+msgid "Please remove the folder %s and try again."
+msgstr ""
+
+#: ../aqt/profiles.py:210
+msgid "Folder already exists."
+msgstr ""
+
+#: ../aqt/profiles.py:339
+msgid "User 1"
+msgstr ""
+
+#: ../aqt/progress.py:111
+msgid "Processing..."
+msgstr ""
+
+#: ../aqt/reviewer.py:65
+#, javascript-format
+msgid "%d card studied in"
+msgid_plural "%d cards studied in"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/reviewer.py:67
+#, javascript-format
+msgid "%s minute."
+msgid_plural "%s minutes."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/reviewer.py:68
+msgid "Finish"
+msgstr ""
+
+#: ../aqt/reviewer.py:70
+msgid "Continue"
+msgstr ""
+
+#: ../aqt/reviewer.py:326
+#, javascript-format
+msgid "Type answer: unknown field %s"
+msgstr ""
+
+#: ../aqt/reviewer.py:474
+msgid "More"
+msgstr ""
+
+#: ../aqt/reviewer.py:484
+msgid "Show Answer"
+msgstr ""
+
+#: ../aqt/reviewer.py:523
+msgid "Again"
+msgstr ""
+
+#: ../aqt/reviewer.py:526 ../aqt/reviewer.py:528 ../aqt/reviewer.py:530
+msgid "Good"
+msgstr ""
+
+#: ../aqt/reviewer.py:528 ../aqt/reviewer.py:530
+msgid "Easy"
+msgstr ""
+
+#: ../aqt/reviewer.py:530
+msgid "Hard"
+msgstr ""
+
+#: ../aqt/reviewer.py:562
+msgid "Card was a leech."
+msgstr ""
+
+#: ../aqt/reviewer.py:564
+msgid "It has been suspended."
+msgstr ""
+
+#: ../aqt/reviewer.py:573
+msgid "Flag Card"
+msgstr ""
+
+#: ../aqt/reviewer.py:581
+msgid "Mark Note"
+msgstr ""
+
+#: ../aqt/reviewer.py:582
+msgid "Bury Card"
+msgstr ""
+
+#: ../aqt/reviewer.py:583
+msgid "Bury Note"
+msgstr ""
+
+#: ../aqt/reviewer.py:585
+msgid "Suspend Note"
+msgstr ""
+
+#: ../aqt/reviewer.py:586
+msgid "Delete Note"
+msgstr ""
+
+#: ../aqt/reviewer.py:590
+msgid "Record Own Voice"
+msgstr ""
+
+#: ../aqt/reviewer.py:591
+msgid "Replay Own Voice"
+msgstr ""
+
+#: ../aqt/reviewer.py:638 ../aqt/reviewer.py:645
+msgid "Suspend"
+msgstr ""
+
+#: ../aqt/reviewer.py:641
+msgid "Note suspended."
+msgstr ""
+
+#: ../aqt/reviewer.py:647
+msgid "Card suspended."
+msgstr ""
+
+#: ../aqt/reviewer.py:660
+#, javascript-format
+msgid "Note and its %d card deleted."
+msgid_plural "Note and its %d cards deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aqt/reviewer.py:665 ../aqt/reviewer.py:671
+msgid "Bury"
+msgstr ""
+
+#: ../aqt/reviewer.py:668
+msgid "Card buried."
+msgstr ""
+
+#: ../aqt/reviewer.py:674
+msgid "Note buried."
+msgstr ""
+
+#: ../aqt/reviewer.py:682
+msgid "You haven't recorded your voice yet."
+msgstr ""
+
+#: ../aqt/sound.py:18
+msgid "Save"
+msgstr ""
+
+#: ../aqt/sound.py:28
+#, javascript-format
+msgid "Recording...<br>Time: %0.1f"
+msgstr ""
+
+#: ../aqt/stats.py:29 ../aqt/stats.py:58
+msgid "Save PDF"
+msgstr ""
+
+#: ../aqt/stats.py:57
+msgid "stats"
+msgstr ""
+
+#: ../aqt/stats.py:70
+msgid "Saved."
+msgstr ""
+
+#: ../aqt/studydeck.py:32
+msgid "Add New Deck (Ctrl+N)"
+msgstr ""
+
+#: ../aqt/studydeck.py:46
+msgid "Study"
+msgstr ""
+
+#: ../aqt/studydeck.py:109
+msgid "Please select something."
+msgstr ""
+
+#: ../aqt/sync.py:50
+msgid "Connecting..."
+msgstr ""
+
+#: ../aqt/sync.py:61
+msgid "Stopping..."
+msgstr ""
+
+#: ../aqt/sync.py:84
+msgid "%(a)0.1fkB up, %(b)0.1fkB down"
+msgstr ""
+
+#: ../aqt/sync.py:92
+msgid "AnkiWeb ID or password was incorrect; please try again."
+msgstr ""
+
+#: ../aqt/sync.py:103
+msgid "Syncing failed; internet offline."
+msgstr ""
+
+#: ../aqt/sync.py:110
+msgid "Syncing..."
+msgstr ""
+
+#: ../aqt/sync.py:113
+msgid "Uploading to AnkiWeb..."
+msgstr ""
+
+#: ../aqt/sync.py:115
+msgid "Downloading from AnkiWeb..."
+msgstr ""
+
+#: ../aqt/sync.py:117
+msgid "Checking..."
+msgstr ""
+
+#: ../aqt/sync.py:119
+msgid "Checking media..."
+msgstr ""
+
+#: ../aqt/sync.py:131
+#, javascript-format
+msgid ""
+"Syncing failed:\n"
+"%s"
+msgstr ""
+
+#: ../aqt/sync.py:172
+msgid "AnkiWeb is under maintenance. Please try again in a few minutes."
+msgstr ""
+
+#: ../aqt/sync.py:177
+msgid ""
+"504 gateway timeout error received. Please try temporarily disabling your "
+"antivirus."
+msgstr ""
+
+#: ../aqt/sync.py:179
+msgid ""
+"Only one client can access AnkiWeb at a time. If a previous sync failed, "
+"please try again in a few minutes."
+msgstr ""
+
+#: ../aqt/sync.py:182
+msgid ""
+"Antivirus or firewall software is preventing Anki from connecting to the "
+"internet."
+msgstr ""
+
+#: ../aqt/sync.py:184
+msgid ""
+"Connection timed out. Either your internet connection is experiencing "
+"problems, or you have a very large file in your media folder."
+msgstr ""
+
+#: ../aqt/sync.py:187
+msgid ""
+"Server not found. Either your connection is down, or antivirus/firewall "
+msgstr ""
+
+#: ../aqt/sync.py:190
+msgid "Proxy authentication required."
+msgstr ""
+
+#: ../aqt/sync.py:192
+msgid "Your collection or a media file is too large to sync."
+msgstr ""
+
+#: ../aqt/sync.py:194 ../aqt/sync.py:196
+msgid ""
+"Error establishing a secure connection. This is usually caused by antivirus, "
+"firewall or VPN software, or problems with your ISP."
+msgstr ""
+
+#: ../aqt/sync.py:215
+msgid "AnkiWeb ID:"
+msgstr ""
+
+#: ../aqt/sync.py:219
+msgid "Password:"
+msgstr ""
+
+#: ../aqt/sync.py:243
+msgid "Local collection has no cards. Download from AnkiWeb?"
+msgstr ""
+
+#: ../aqt/sync.py:244 ../aqt/sync.py:263 ../aqt/sync.py:269
+msgid "Download from AnkiWeb"
+msgstr ""
+
+#: ../aqt/sync.py:262 ../aqt/sync.py:267
+msgid "Upload to AnkiWeb"
+msgstr ""
+
+#: ../aqt/toolbar.py:35
+msgid "Browse"
+msgstr ""
+
+#: ../aqt/toolbar.py:36
+msgid "Stats"
+msgstr ""
+
+#: ../aqt/toolbar.py:37
+msgid "Sync"
+msgstr ""
+
+#: ../aqt/update.py:62
+msgid "Would you like to download it now?"
+msgstr ""
+
+#: ../aqt/update.py:63
+msgid "Ignore this update"
+msgstr ""
+
+#: ../aqt/utils.py:26
+msgid "Loading..."
+msgstr ""
+
+#: ../aqt/utils.py:303
+msgid "This file exists. Are you sure you want to overwrite it?"
+msgstr ""
