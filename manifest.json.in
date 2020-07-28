@@ -1,0 +1,15 @@
+{
+    "name": "anki.anki",
+    "description": "anki",
+    "architecture": "@CLICK_ARCH@",
+    "title": "anki",
+    "hooks": {
+        "anki": {
+            "apparmor": "anki.apparmor",
+            "desktop":  "anki.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Raphael Fritz <raphael.fritz@gmx.de>",
+    "framework" : "ubuntu-sdk-16.04"
+}
