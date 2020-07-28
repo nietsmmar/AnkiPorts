@@ -40,9 +40,16 @@ endif()
 configure_file(manifest.json.in ${CMAKE_CURRENT_BINARY_DIR}/manifest.json)
 install(FILES ${CMAKE_CURRENT_BINARY_DIR}/manifest.json DESTINATION ${CMAKE_INSTALL_PREFIX})
 install(FILES ${PROJECT_NAME}.apparmor DESTINATION ${DATA_DIR})
-#install(DIRECTORY assets DESTINATION ${DATA_DIR})
-#install(DIRECTORY src DESTINATION ${DATA_DIR})
-#install(DIRECTORY qml DESTINATION ${DATA_DIR})
+
+#install(DIRECTORY py-packages/decorator DESTINATION ${DATA_DIR})
+#install(DIRECTORY py-packages/pyaudio DESTINATION ${DATA_DIR})
+#install(DIRECTORY py-packages/requests DESTINATION ${DATA_DIR})
+#install(DIRECTORY py-packages/markdown DESTINATION ${DATA_DIR})
+#install(DIRECTORY py-packages/send2trash DESTINATION ${DATA_DIR})
+
+install(DIRECTORY aqt DESTINATION ${DATA_DIR})
+install(DIRECTORY anki DESTINATION ${DATA_DIR})
+install(FILES runanki DESTINATION ${DATA_DIR} PERMISSIONS OWNER_EXECUTE OWNER_WRITE OWNER_READ)
 
 # Translations
 file(GLOB_RECURSE I18N_SRC_FILES RELATIVE ${CMAKE_CURRENT_SOURCE_DIR}/po qml/*.qml qml/*.js aqt/*.py anki/*.py )
