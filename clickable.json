@@ -1,5 +1,17 @@
 {
   "clickable_minimum_required": "6.12.2",
   "builder": "pure-qml-cmake",
-  "kill": "qmlscene"
+  "kill": "qmlscene",
+
+  "libraries": {
+    "decorator": {
+      "builder": "custom",
+      "build": "python $ROOT/scripts/get_libs.py $ARCH_TRIPLET $BUILD_DIR/install python-decorator",
+      "dependencies_host": [
+        "rsync"
+      ]
+
+    }
+  }
 }
+
